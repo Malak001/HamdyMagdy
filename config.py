@@ -53,19 +53,19 @@ VIDEOS = {
         "https://www.youtube.com/embed/8BxoVLGxGGc"   
     ],
     "motion": [
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc"   # ← Replace with your video link
+        "https://www.youtube.com/embed/8BxoVLGxGGc",  
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc"    
     ],
     "vfx": [
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc",  # ← Replace with your video link
-        "https://www.youtube.com/embed/8BxoVLGxGGc"   # ← Replace with your video link
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc",   
+        "https://www.youtube.com/embed/8BxoVLGxGGc"    
     ]
 }
